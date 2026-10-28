@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 5, BLD. TUDOR VLADIMIRESCU, NR.45, ETAJ 1-2, NUMARUL CADASTRAL 200670-C1 |
 | Website | [https://seniorsoftware.ro](https://seniorsoftware.ro) |
 | Careers | [https://seniorsoftware.ro/cariere/](https://seniorsoftware.ro/cariere/) |
-| Last Scraped | 2026-10-27 |
+| Last Scraped | 2026-10-28 |
 
 ## Current Job Listings (4)
 
-_Generated: 2026-10-27T11:13:59.995Z_
+_Generated: 2026-10-28T11:48:00.597Z_
 
 ### Job Laravel Web Developer
 
